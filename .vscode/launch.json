@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Part 1",
+            "program": "${workspaceFolder}/07/part1.js",
+            "runtimeVersion": "14.17.4",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "pwa-node"
+        }
+        {
+            "name": "Part 2",
+            "program": "${workspaceFolder}/07/part2.js",
+            "runtimeVersion": "14.17.4",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "pwa-node"
+        }
+    ]
+}
